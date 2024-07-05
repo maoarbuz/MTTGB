@@ -1,0 +1,1 @@
+hi:hello:salut;Hello, my dear user!;Hi! How are u?
