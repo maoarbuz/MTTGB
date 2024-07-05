@@ -28,3 +28,8 @@ Install the required Python libraries using pip:
 ###Answers and queries
 
 Edit file ```dialogues.txt``` for this!
+Format: 
+
+```query1:query2:query3;response1;response2```
+
+You can add multiple answers and queries
