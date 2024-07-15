@@ -25,7 +25,7 @@ Install the required Python libraries using pip:
 
 ```pip install python-telegram-bot pandas```
 
-###Answers and queries
+## Answers and queries
 
 Edit file ```dialogues.txt``` for this!
 Format: 
